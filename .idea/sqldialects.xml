@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://C:/ProgramData/Microsoft/Windows/Start Menu/Programs/PostgreSQL 15/SQL Shell (psql).lnk" dialect="SQLite" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d861f03-a1fa-4504-a892-5dd8473d4ed2/console.sql" dialect="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/be718155-1b08-453a-b502-df64c76e551a/console.sql" dialect="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe7fd6f5-120a-4e64-ab8b-a1b4ad071d3d/console.sql" dialect="PostgreSQL" />
